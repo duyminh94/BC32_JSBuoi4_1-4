@@ -1,3 +1,4 @@
+// Bài 1
 document.getElementById("btntinhnumber").onclick = function () {
   /* Đầu vào */
   // Ta cho số nhập thành biến number1, number2, number3
