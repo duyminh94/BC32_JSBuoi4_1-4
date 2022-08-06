@@ -130,7 +130,7 @@ document.getElementById("btntinhtamgiac").onclick = function () {
   // Xử lý
 
   var tamgiac = "";
-  if (canha == canhb && canhb == canhb) {
+  if (canha == canhb && canhb == canhc) {
     tamgiac = "Đây là tam giác đều";
   } else if (canha == canhb || canha == canhc || canhb == canhc) {
     tamgiac = "Đây là tam giác cân ";
